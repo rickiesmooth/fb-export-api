@@ -1,0 +1,21 @@
+{
+  "name": "fb-export-api",
+  "version": "1.0.6",
+  "description": "export fb app analytics",
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "node ./example/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fb"
+  },
+  "keywords": [
+    "fb",
+    "node",
+    "server"
+  ],
+  "author": "rick smit",
+  "license": "MIT"
+}
