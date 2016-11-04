@@ -1,6 +1,6 @@
 {
   "name": "fb-export-api",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "export fb app analytics",
   "main": "./lib/index.js",
   "scripts": {
